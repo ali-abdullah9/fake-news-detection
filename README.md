@@ -57,3 +57,6 @@ This demonstration version generates random predictions. The full model achieves
 ## Contributors
 
 - Ali Abdullah
+## License
+
+MIT License
